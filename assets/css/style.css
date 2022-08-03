@@ -75,3 +75,11 @@
     height: 80vh;
     background-position: top 65% center;
  }
+
+ /* media query */
+ @media(max-width:520px){
+     .carousel-inner img{
+        height: 55vh;
+}
+}
+    
