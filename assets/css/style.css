@@ -72,8 +72,8 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: contain;
-    height: 80vh;
-    background-position: top 65% center;
+    height: 60vh;
+    background-position: top 40% center;
  }
 
  /* media query */
@@ -81,5 +81,15 @@
      .carousel-inner img{
         height: 55vh;
 }
+#overview-banner{
+    background-image: url(/assets/img/phone/bannerimage.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    height: 30vh;
+    background-position: top 13% center;
+ }
+
 }
     
